@@ -1,5 +1,16 @@
-.gatinhos{
-    background-color: black; color: aliceblue; 
+.gatinhos {
+    background-color: black;
+    color: aliceblue;
     display: flex;
     padding: 24px 0;
+}
+
+.secttion1 {
+    background-color: antiquewhite;
+
+}
+
+
+.section2 {
+    background-color: aqua;
 }
