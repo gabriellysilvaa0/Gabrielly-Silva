@@ -1,18 +1,18 @@
 .gatinhos {
-    background-color: blueviolet;
+    background-color: black;
     color: aliceblue;
     display: flex;
     padding: 24px 0;
 }
 
 .secttion1 {
-    background-color: aqua;
+    background-color: bisque;
 padding: 100px;
 
 }
 
 
 .section2 {
-    background-color: blue;
+    background-color: black;
     padding: 100px;
 }
