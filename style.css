@@ -1,5 +1,5 @@
 .gatinhos {
-    background-color: black;
+    background-color: blueviolet;
     color: aliceblue;
     display: flex;
     padding: 24px 0;
@@ -13,6 +13,6 @@ padding: 100px;
 
 
 .section2 {
-    background-color: bisque;
+    background-color: blue;
     padding: 100px;
 }
